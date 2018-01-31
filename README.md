@@ -6,16 +6,16 @@ The contents include:
 
 1. Code Samples
 
-    - Reinforcement Learning Assignment 
+- Reinforcement Learning Assignment 
     
-    - Extreme Computing Hadoop(MapReduce) Assignment 
+- Extreme Computing Hadoop(MapReduce) Assignment 
     
-    - Introduction to Applied Machine Learning Assignments
+- Introduction to Applied Machine Learning Assignments
     
 2. Writing Samples
 
-    - Dissertation Introduction
+- Dissertation Introduction
     
-    - Survey Graph Network Paper
+- Survey Graph Network Paper
 
 
