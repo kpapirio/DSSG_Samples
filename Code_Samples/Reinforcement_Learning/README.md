@@ -1,6 +1,6 @@
 # Reinforcement Learning: Overview
 
-This RL project involved playing the Enduro game within the ALE environment and had two main goals. 
+This RL project involved playing the Enduro game within the ALE environment and had two main goals:
 
 1. The design and implementation of a Q-learning based agent that modeled the environment (i.e. passing cars, avoiding collisions). The details of this agent can be found in the q_agent_ex.py script.
 
