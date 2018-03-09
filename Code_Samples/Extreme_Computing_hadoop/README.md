@@ -5,9 +5,7 @@ Use the files in the folder /data/assignments/ex2/task1/large/ as input and prod
 index using MapReduce. For instance, given the following documents: 
 
                 d1.txt: cat dog cat fox
-
                 d2.txt: cat bear cat cat fox
-
                 d3.txt: fox wolf dog
 
 you should build the following full inverted index.
