@@ -1,4 +1,4 @@
-# Inverted index with MapReduce
+# 1.1 Inverted index with MapReduce
 ## Task 1 Inverted index with MapReduce
 
 Use the files in the folder /data/assignments/ex2/task1/large/ as input and produce an inverted
@@ -25,7 +25,7 @@ that terms are sorted alphabetically and also that the items inside lists are al
 document identifier.
 
 
-# Parsing StackOverflow
+# 1.2 Parsing StackOverflow
 For tasks 2-4, you will use a dataset from StackOverflow (stackLarge.txt) and extract specific
 pieces of information. Initially, you should understand the format of the dataset, next you will need to
 parse each post, and finally you will need to implement your MapReduce workflows. Use MapReduce
@@ -96,6 +96,8 @@ has answered a question only if their answer was selected as the accepted answer
      1342 -> 23, 26, 531
      
 Use a single space in your actual output: “1342 -> 23, 26, 531”
+
+# 1.3 Sifting Web Data
 
 ## Task 5
 In lectures, you saw how to sample uniformly a single line from a stream of lines efficiently on a single
