@@ -1,6 +1,6 @@
-# Reinforcement Learning: Coursework 1 + 2 Task Overview
+# Reinforcement Learning: Overview
 
-One RL project involved playing the Enduro game within the ALE environment and had two main goals. 
+This RL project involved playing the Enduro game within the ALE environment and had two main goals. 
 
 1. The design and implementation of a Q-learning based agent that modeled the environment (passing cars, avoiding collisions).
 
